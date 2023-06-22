@@ -1,0 +1,1043 @@
+ID;Alimentos;Proteína;Carbohidratos;Grasa;Etiqueta
+7;Avena envenenada;100;100;100;Almuerzo
+8;Avena, hojuela cocida;1.3;10.9;0.5;Desayuno
+9;Chancay (bizcocho);8.8;64.4;6.9;Cena
+10;Chancay (bizcocho);8.8;64.4;6.9;Desayuno
+11;Fideo tallarín sancochado fortiticado con hierro;3.1;21.3;0;Almuerzo
+12;Galleta de soda (salada);10.1;68;14.7;Cena
+13;Galleta de vainilla (dulce);6;74.9;12.7;Cena
+14;Maíz, grano fresco (choclo);3.3;27.8;0.8;Almuerzo
+15;Maiz, maicena;0.3;91.3;0.1;Desayuno
+16;Maíz, morado sin coronta;7.3;76.2;3.4;Cena
+17;Maíz, morado sin coronta;7.3;76.2;3.4;Almuerzo
+18;Pan de cebada (serrano);7.2;66.2;0.2;Desayuno
+19;Pan de labranza;9.6;71.8;0.3;Desayuno
+20;Pan de molde;6.8;69.2;2.5;Desayuno
+21;Pan bollo o bollitos de queso de Huancavelica;9.5;51.7;7.3;Desayuno
+22;Pan francés fortificado con hierro;8.4;62.9;0.2;Desayuno
+23;Quinua, afrecho de;10.7;65.9;4.5;Desayuno
+24;Quinua blanca, (Junín);12.5;66;6.5;Desayuno
+25;Quinua blanca (?uno);13.3;67.1;6.1;Desayuno
+26;Quinua cocida;2.8;16.3;1.3;Desayuno
+27;Quinua;13.6;66.6;5.8;Desayuno
+28;Quinua dulce, blanca ;11.1;67.4;7.7;Desayuno
+29;Quinua dulce, blanca ;11.6;68.9;5.3;Desayuno
+30;Quinua dulce, rosada;12.3;67.1;7.2;Desayuno
+31;Quinua, harina de;12.4;67.2;6;Desayuno
+32;Quinua, hojuelas de;13.9;63.1;7.4;Desayuno
+33;Quinua rosada (?uno);12.5;67.6;6.4;Desayuno
+34;Quinua, sémola de;19.5;53.8;10.7;Desayuno
+35;Barra de cereales (avena y arrocillo) con maní y pasas;5.8;74.9;9.4;Desayuno
+36;Barra de cereales con sabor a chocolate y chocochips;4.9;78.6;8.5;Desayuno
+37;Barra de cereales (avena, arroz) con aguaymanto;5.3;77.6;7.3;Desayuno
+38;Barradecereales(maíz, trigo,arroz) saboramielconleche,vitaminasyminerales;4.4;79;8.5;Desayuno
+39;Bollito de maíz de Huánuco;9.6;57.5;17.5;Cena
+40;Bollito de yema de Huánuco;9.9;57.5;12.6;Cena
+41;Cañihua, harina de;15.2;63;8.3;Desayuno
+42;Cañihua, variedad roja;15.4;62.7;7.5;Desayuno
+43;Cañihua, variedad blanca;15.4;62.5;7.7;Cena
+44;Galleta de soda (San Jorge);9.3;70.8;13.3;Cena
+45;Galleta de vainilla (Field);7.3;73.1;15.6;Desayuno
+46;Galleta dulce con avena y base sabor a chocolate (con fibra);6.7;69;19.8;Desayuno
+47;Galleta dulce con avena y base sabor a frutos rojos;6.7;68;20.8;Desayuno
+48;Galleta dulce con avena y granola (con fibra);8;70.2;16.9;Desayuno
+49;Galleta dulce con avena, manzana y canela (con fibra);7.2;73.6;14.3;Desayuno
+50;Galleta dulce con avena y uvas pasas (con fibra);7.2;73;14.9;Desayuno
+51;Galleta dulce con relleno (Casino);4.7;70.5;22;Desayuno
+52;Galleta dulce con relleno “chocolate” (Coronita);5.7;69.8;21.1;Desayuno
+53;Galletas nutritivas de maca;7;72.2;16.1;Cena
+54;Hiwicto marfil oscuro;9;76.8;2;Cena
+55;Hiwicto negro;9;74.6;2.7;Desayuno
+56;Kara ceniza o kala;11.6;73.6;2.3;Desayuno
+57;Kara color pajizo;7.2;76.9;2.5;Desayuno
+58;Kiwicha pop de Huánuco;13.1;66.5;8.9;Desayuno
+59;Kiwicha, precocida, hojuela de;13.4;68;8.1;Desayuno
+60;Llipta sara, variedad de maíz;7.4;75.9;4.2;Desayuno
+61;Maíz blanco, harina;5.5;76.6;5;Cena
+62;Pan árabe;10.3;56.7;3.5;Desayuno
+63;Pan cachanga;7.7;47.4;26.1;Desayuno
+64;Pan campesino de Lima;10;46;5.7;Desayuno
+65;Pan ciabatta;9.2;55;2;Desayuno
+66;Pan chapla;9.3;63.2;3.5;Desayuno
+67;Pan chuta;9.5;62.3;11.1;Desayuno
+68;Pan cortadillo de Cajamarca;6.9;67.2;7.1;Desayuno
+69;Pan cuay de trigo de Carhuaz;10;53.4;11.6;Desayuno
+70;Pan cuay de trigo de Huaraz;7.6;48.9;10.1;Desayuno
+71;Pan de calabaza de Huancavelica;11.5;48.4;3.9;Desayuno
+72;Pan de chicharrón de Chiclayo;9.9;54.3;9;Desayuno
+73;Pan de girasol de Lima;10.7;38.7;7.7;Desayuno
+74;Pan de hamburguesa de Iquitos;10.8;57.7;4.7;Desayuno
+75;Pan de huevo;9.3;59.4;6.9;Desayuno
+76;Pan de maíz;7.7;56.7;8.7;Desayuno
+77;Pan de maíz de Carhuaz;9.2;53.5;8;Desayuno
+78;Pan de maíz de Huaraz;8;53;15.2;Desayuno
+79;Pan de quinua de Lima;9.5;47;1.7;Desayuno
+80;Pan de trigo artesanal de Carhuaz;8.8;52.4;4.6;Desayuno
+81;Pan de yema;9.4;55.4;8.1;Desayuno
+82;Pan de yema de Cajamarca;9.2;52.9;12.9;Desayuno
+83;Pan dulce de Lima;11.9;49.5;5;Desayuno
+84;Pan huaro;9.9;62.2;5.5;Desayuno
+85;Pan Huascarán de Lima;9.4;46.3;4.8;Desayuno
+86;Pan integral;9.1;55.5;9;Desayuno
+87;Pan marraqueta de Chiclayo;6.4;68.9;2.2;Desayuno
+88;Pan mestizo de Huánuco;9.6;54.8;15.7;Desayuno
+89;Pan mishtishongo de Huánuco;9.1;48.5;20;Desayuno
+90;Pan mollete de Chiclayo;10.2;52.3;3.8;Desayuno
+91;Pan mollete, chico;9.6;47;16.3;Desayuno
+92;Pan torta de Cajamarca;9.4;61.5;8;Desayuno
+93;Pan 3 granos (quinua, cañihua y kiwicha) de Lima;8.6;40.5;2.5;Desayuno
+94;Pan vico;9.3;56.1;9.1;Cena
+95;Pan vico de Iquitos;11.6;62.4;4.1;Cena
+96;Quinua, variedad real;14.2;65.9;5.1;Cena
+97;Quinua, variedad Ayara (Puno);14;62.6;6.3;Cena
+98;Quinua, variedad blanca de Juli (Puno);11.6;70.6;4.8;Cena
+99;Quinua, variedad CICA-18 (Puno);14.4;66.4;5.7;Cena
+100;Quinua, variedad CICA-127 (Puno);15.8;67.1;5.2;Cena
+101;Quinua, variedad Cuchiwilla (Puno);15.2;64.3;5.2;Cena
+102;Quinua, variedad Choclito (Puno);13.4;67.1;5.2;Cena
+103;Quinua, variedad Chullpi- roja (Puno);13.7;66.9;5.5;Cena
+104;Quinua, variedad Misa Jiura (Puno);12.3;68.6;5.4;Cena
+105;Quinua, variedad Pasankalla-roja (Puno);12.7;68.5;6.2;Cena
+106;Quinua, variedad Q’ OITU-negra (Puno);11.6;68.2;4.9;Cena
+107;Quinua, variedad Wariponcho (Puno);12.6;67.9;5.5;Cena
+108;Quinua, variedad Witulla (Puno);13.7;67.8;5.9;Cena
+109;Rosquita de almidón de Iquitos;1.8;74.2;18.3;Cena
+110;Aceituna de botija;0.8;7.3;32.1;Merienda
+111;Aceitunas negras preparadas;2.2;30.3;22.4;Merienda
+112;Durazno-Melocotón;0.8;12.4;0.2;Merienda
+113;Caimito;1.8;13.6;0.5;Merienda
+114;Camu-camu;0.5;5.9;0.1;Merienda
+115;Capulí;0.7;15.9;0.4;Merienda
+116;Chambiro;1.5;14.5;7.3;Merienda
+117;Chirimoya;1.9;21.6;0.3;Merienda
+118;Ciruela;1;21.5;0.2;Merienda
+119;Coco;3.4;10.8;28.1;Merienda
+120;Agua de coco;0.7;3.1;0.1;Merienda
+121;Cocona;0.9;9.2;0.7;Merienda
+122;Dátiles;1.4;59.8;0.5;Merienda
+123;Fresa;0.7;8.9;0.8;Merienda
+124;Granada;0.5;18.3;0.1;Merienda
+125;Granadilla;2.5;11.4;2.7;Merienda
+126;Granadilla, jugo enlatado de;1.1;16.1;0;Merienda
+127;Guanábana;0.9;14.3;0.2;Merienda
+128;Guayaba;0.5;14.9;0.1;Merienda
+129;Guayaba amarilla con cáscara;1.2;9.7;0.3;Merienda
+130;Guayaba rosada;0.5;14.7;0.2;Merienda
+131;Guayaba verde;0.5;14.7;0.1;Merienda
+132;Higo negro;0.9;19.9;0.1;Merienda
+133;Higo seco;3.6;46.6;0.2;Merienda
+134;Huito;1.2;14;0.1;Merienda
+135;Humarí / Umari, sin pepa y sin cáscara;1.6;27.4;8.1;Merienda
+136;Kaki;0.5;20.8;0.1;Merienda
+137;Kumuvi;0.7;25.9;0.6;Merienda
+138;Lima;0.6;5.9;0.4;Merienda
+139;Jugo de limón;0.5;9.7;0.2;Merienda
+140;Lúcuma;2.1;34.9;0.2;Merienda
+141;Lúcuma, harina de;4;82;2.4;Merienda
+142;Macambo, pulpa y semilla;6.7;21.5;9.2;Merienda
+143;Macambo, pulpa de;2.1;8.3;0.8;Merienda
+144;Mamey maduro;0.5;9.7;0.1;Merienda
+145;Mandarina;0.6;8.6;0.3;Merienda
+146;Mango;0.4;15.9;0.2;Merienda
+147;Manzana nacional;0.3;14.6;0.1;Merienda
+148;Maracuyá, jugo puro de;0.9;16.1;0.1;Merienda
+149;Marañón;0.8;10.5;0.5;Merienda
+150;Melón;0.5;5.8;0.1;Merienda
+151;Melón enano;0.6;4.4;0.2;Merienda
+152;Membrillo;0.3;11.5;0.1;Merienda
+153;Naranja;0.6;10.1;0.2;Merienda
+154;Naranja de Guayaquil;0.5;10.2;0.2;Merienda
+155;Naranja de Huando;1.2;10.9;0.2;Merienda
+156;Níspero;0.3;12.7;0;Merienda
+157;Nuzive;2.7;17.7;7.8;Merienda
+158;Pacae o Guaba;0.6;14.8;0.1;Merienda
+159;Palta;1.7;5.6;12.5;Merienda
+160;Pan de árbol con semilla;4.5;29;1.8;Merienda
+161;Pan de árbol sin semilla;1.6;10.5;0.5;Merienda
+162;Pan-Meo;1.3;19.9;0.2;Merienda
+163;Papaya;0.4;8.2;0.1;Merienda
+164;Pasa sin pepa;2.4;63.8;0.4;Merienda
+165;Pepino dulce;0.3;7;0;Merienda
+166;Pera chilena;0.3;13.2;0.1;Merienda
+167;Pera de agua;0.4;13;0.6;Merienda
+168;Pera nacional;0.4;14.5;0.2;Merienda
+169;Pera perilla;0.6;14.4;0.5;Merienda
+170;Pero;0.4;13.3;0.7;Merienda
+171;Pijuayo;2.8;41;3.2;Merienda
+172;Pijuayo sancochado, sin cáscara y sin pepas;2.1;41;4;Merienda
+173;Piña;0.4;9.8;0.2;Merienda
+174;Plátano de isla;1.2;21.6;0.1;Merienda
+175;Plátano de seda;1.5;21;0.3;Merienda
+176;Plátano guineo;1.4;31.7;0.2;Merienda
+177;Plátano manzano;1.1;23.4;0.2;Merienda
+178;Plátano, harina de;4;79.3;0.4;Merienda
+179;Plátano maduro;1.2;29.6;0.2;Merienda
+180;Plátano morado;1;28.1;0.2;Merienda
+181;Plátano seco (orejón);3.7;68.2;1.2;Merienda
+182;Plátano verde;1;40.9;0.2;Merienda
+183;Plátano verde asado;1.5;68;0.2;Merienda
+184;Plátano verde sancochado;0.7;36.8;0.3;Merienda
+185;Pomarosa;0.5;7.9;0.4;Merienda
+186;Purunkari;2.7;36.3;1.4;Merienda
+187;Sandia;0.7;5.9;0.1;Merienda
+188;Tamarindo;2.8;62.5;0.6;Merienda
+189;Mango ciruelo (taperibá);0.6;14.2;0.3;Merienda
+190;Toronja;0.6;8.8;0.4;Merienda
+191;Tumbo costeño;0.4;5.8;0;Merienda
+192;Tumbo serrano sin cáscara;2.1;12.1;0.4;Merienda
+193;Tuna;0.8;15.4;0;Merienda
+194;Tuna roja;1.3;12.1;0.2;Merienda
+195;Ungurauy;2.8;33.6;21.1;Merienda
+196;Uva blanca;0.3;11.3;0.2;Merienda
+197;Uva borgoña;0.9;21.3;0.3;Merienda
+198;Uva italia;0.4;17.7;0.1;Merienda
+199;Uva negra;0.2;18.1;0.1;Merienda
+200;Uva quebranta;0.5;17.7;0.1;Merienda
+201;Uvilla;0.3;16.7;0.3;Merienda
+202;Zapote;0.9;18.8;0.3;Merienda
+203;Aguaymanto;1.9;17.3;0;Merienda
+204;Blanquillo;1;13.3;0.3;Merienda
+205;Carambola;1;6.5;0.5;Merienda
+206;Carambola, refresco cocido de;0.2;0.9;0.3;Merienda
+207;Carambola, refresco natural de;0.2;0.6;0.3;Merienda
+208;Coco rallado;7.4;19.5;66.8;Merienda
+209;Durazno, néctar envasado;0;3.1;0;Merienda
+210;Granadilla, jugo natural;1.1;7.3;0.2;Merienda
+211;Guindón*;2.2;63.9;0.4;Merienda
+212;Kiwi, sin cáscara;2.9;10.6;0.3;Merienda
+213;Mango, néctar envasado;0;12.5;0;Merienda
+214;Manzana chilena verde con cáscara;0.2;11.4;0.3;Merienda
+215;Manzana delicia “helada” con cáscara;0.2;16;0.1;Merienda
+216;Manzana delicia roja con cáscara;0.3;16.5;0.1;Merienda
+217;Manzana israel con cáscara;0.4;12.9;0.1;Merienda
+218;Manzana, néctar envasado;0;9.5;0;Merienda
+219;Manzana pero con cáscara (para agua);0.3;13.8;0.1;Merienda
+220;Manzana santa rosa (golden) con cáscara;0.2;17.3;0.1;Merienda
+221;Manzana winter con cáscara;0.3;15;0.1;Merienda
+222;Maracuyá, néctar envasado;0;2.3;0;Merienda
+223;Naranja, bebida envasada;0;14.7;0;Merienda
+224;Naranja tangelo;1;7.4;0.2;Merienda
+225;Naranja tangelo, jugo natural;0.7;5.9;0.2;Merienda
+226;Naranjilla*;0.7;6.8;0.1;Merienda
+227;Palta “fuerte”;1.9;17.1;8.9;Merienda
+228;Papaya arequipeña;1;3.7;0.3;Merienda
+229;Pera, néctar envasado;0;11.5;0;Merienda
+230;Piña, bebida envasada;0;8.3;0;Merienda
+231;Plátano “bellaco”;1.3;29.5;0.1;Merienda
+232;Plátano “moquicho”;1.2;29.7;0.1;Merienda
+233;Plátano palillo;0.9;31;0.3;Merienda
+234;Plátano palillo maduro, harina de;4.1;81.6;1.1;Merienda
+235;Plátano palillo verde, harina de;3.3;83.2;0.2;Merienda
+236;Maní sancochado;15.9;21.9;27.5;Merienda
+237;Maní tostado, sin película;27.1;16.9;51;Merienda
+238;Pecana;9.1;11.7;73.8;Merienda
+239;Almeja blanca;14.4;0;1.1;Merienda
+240;Pescado acarabuazú, salado deshidratado;47.5;0;9.9;Almuerzo
+241;Pescado anchoveta;19.1;0;8.2;Almuerzo
+242;Pescado atún, en conserva;22.9;0;9.9;Almuerzo
+243;Pescado atún, fresco;23.3;0;4.6;Almuerzo
+244;Pescado ayanque o cachema;19.6;0;0.5;Almuerzo
+245;Pescado bacalao fresco;17.8;0;0.7;Almuerzo
+246;Pescado bacalao seco salado;62.8;0;2.4;Almuerzo
+247;Pescado bagre;15.2;0;1.7;Almuerzo
+248;Pescado bonito;23.4;0;4.2;Almuerzo
+249;Pescado bonito, huevera de;17.2;0;3;Almuerzo
+250;Pescado bonito, músculo claro;23.8;0;1.3;Almuerzo
+251;Pescado bonito, músculo oscuro;21.1;0;5.5;Almuerzo
+252;Pescado bonito, pulpa asada;24;0;3.7;Almuerzo
+253;Pescado bonito, seco salado;32.3;0;5.1;Almuerzo
+254;Pescado boquichico, salado deshidratado;47.9;0;9.1;Almuerzo
+255;Pescado caballa, fresco;19.5;0;4.9;Almuerzo
+256;Pescado caballa, salado;25.2;0;4.9;Almuerzo
+257;Pescado cabinza;19.1;0;1.6;Almuerzo
+258;Pescado cabrilla;18.6;0;1.8;Almuerzo
+259;Pescado carachama;14.2;0;0.4;Almuerzo
+260;Pescado cazón;21.8;0;0.5;Almuerzo
+261;Pescado chita;19.8;0;0.4;Almuerzo
+262;Pescado chita, huevera de;12.3;0;1;Almuerzo
+263;Pescado chita, pulpa asada;21;0;1;Almuerzo
+264;Pescado coco;17.4;0;2.7;Almuerzo
+265;Pescado cojinova;20.7;0;1.6;Almuerzo
+266;Pescado congrio;15.7;0;0.7;Almuerzo
+267;Pescado corvina;19.5;0;4.5;Almuerzo
+268;Pescado fuasaco, con espinas;16.3;0;0.3;Almuerzo
+269;Pescado jurel, en conserva;23.2;0;3.8;Almuerzo
+270;Pescado jurel, fresco;19.7;0;4;Almuerzo
+271;Pescado lenguado;18.8;0;1.2;Almuerzo
+272;Pescado lisa;20.8;0;3.3;Almuerzo
+273;Pescado lorna, fresco;18.5;0;1.9;Almuerzo
+274;Pescado lorna, pulpa seca salada;30.9;0;2;Almuerzo
+275;Pescado machete;20.5;0;5.4;Almuerzo
+276;Pescado maparate, con espinas;15.1;0;0.9;Almuerzo
+277;Pescado merluza, fresco;15.8;0;0.5;Almuerzo
+278;Pescado merluza, seco;73.8;0;5.3;Almuerzo
+279;Pescado mero, fresco*;20.8;0;2.3;Almuerzo
+280;Pescado paiche, seco;38.2;0;9.3;Almuerzo
+281;Pescado pampanito;19.2;0;2.7;Almuerzo
+282;Pescado paña, salado deshidratado;54.3;0;6.2;Almuerzo
+283;Pescado pejerrey;19.6;0;2.4;Almuerzo
+284;Pescado pejesapo;22.1;0;0.7;Almuerzo
+285;Pescado pejesapo, pulpa asada;19.5;0;0.4;Almuerzo
+286;Pescado pejesapo, pulpa sancochada;18.7;0;0.3;Almuerzo
+287;Pescado perico;20.5;0;0.4;Almuerzo
+288;Pescado pintadilla;18.8;0;0.5;Almuerzo
+289;Pescado ractacara, con espinas;15.4;0;2.3;Almuerzo
+290;Pescado raya, pulpa asada;31.1;0;0.4;Almuerzo
+291;Pescado róbalo;21.3;0;0.5;Almuerzo
+292;Pescado sardina, con aceite;21.7;0;20;Almuerzo
+293;Pescado sardina, con tomate;22.2;0;6.9;Almuerzo
+294;Pescado sardina, en grated (en conserva);22.4;0;9;Almuerzo
+295;Pescado sardina, filete (en conserva);25.8;0;11;Almuerzo
+296;Pescado sardina, fresco;20.2;0;6.6;Almuerzo
+297;Pescado toyo, fresco;19.5;0;0.6;Almuerzo
+298;Pescado toyo, seco salado;38.6;0;2.3;Almuerzo
+299;Pescado tramboyo;19.2;0;0.3;Almuerzo
+300;Pescado trucha rosada;20.9;0;2.3;Almuerzo
+301;Pescado trucha, en conserva;21.5;0;9;Almuerzo
+302;Pescado trucha, fresca;19.5;0;3.1;Almuerzo
+303;Pescado yahuarachi, con espinas;15.5;0;2.2;Almuerzo
+304;Pescado yuliya, con espinas;16.9;0;1.4;Almuerzo
+305;Pescado zúngaro, salado deshidratado;47.3;0;9.3;Almuerzo
+306;Carnero, cabeza sancochada de;14.2;0;5.6;Almuerzo
+307;Carnero, corazón de;15.9;1.4;4.6;Almuerzo
+308;Carnero, hígado de;19.9;2.6;4;Almuerzo
+309;Carnero, panza de (mondongo);15.7;0;0.6;Almuerzo
+310;Carnero, patas sancochadas de;20.9;0;2.1;Almuerzo
+311;Carnero, pulmón de (bofe);13.4;0;2.2;Almuerzo
+312;Carnero, riñón;18;0.8;3.2;Almuerzo
+313;Carnero, sesos de;10;0;7.8;Almuerzo
+314;Carnero, pulpa gorda;16.9;0;21.6;Almuerzo
+315;Carnero, pulpa muy magra;19;0;6.1;Almuerzo
+316;Carnero, pulpa semigorda;18.2;0;19.4;Almuerzo
+317;Cerdo, carne sin hueso;14.4;0.1;15.1;Almuerzo
+318;Cerdo, hígado de;18.5;1.7;4.7;Almuerzo
+319;Cerdo, patas semigordas;20;0;22;Almuerzo
+320;Cerdo, pulmón de (bofe);13.5;0;2.4;Almuerzo
+321;Cerdo, riñón de;13.9;0;8.8;Almuerzo
+322;Chivo, carne pulpa de;19.4;0;3.6;Almuerzo
+323;Conejo, carne pulpa de;20.1;0;5.6;Almuerzo
+324;Pechuga de gallina;19.2;0;2.9;Almuerzo
+325;Pierna de gallina;20.6;0;3.6;Almuerzo
+326;Carne pulpa de majaz;21.4;1.4;1.2;Almuerzo
+327;Carne pulpa de motelo;21.4;1.4;1.8;Almuerzo
+328;Carne de pato;16;0;28.6;Almuerzo
+329;Carne de pavo;20.4;0;8;Almuerzo
+330;Carne pulpa de pollo;21.4;0;3.1;Almuerzo
+331;Corazón de pollo;15.6;1.6;9.3;Almuerzo
+332;Hígado de pollo;18;3.4;3.9;Almuerzo
+333;bazo de res;18.9;0;1.2;Almuerzo
+334;carne pulpa de res;21.3;0;1.6;Almuerzo
+335;corazón de res;16.6;0.1;3.5;Almuerzo
+336;criadillas de res;9.8;0.4;1.8;Almuerzo
+337;hígado de res;20;3.3;4.6;Almuerzo
+338;lengua de res;16.5;0.3;11.2;Almuerzo
+339;Jamón del país;24.7;0;26.4;Almuerzo
+340;Jamonada;15.7;2.8;29.5;Almuerzo
+341;Mortadela;9.8;9.4;19.7;Almuerzo
+342;Paté;10.9;1.1;49.8;Almuerzo
+343;Queso de chancho;20.1;0;17.3;Almuerzo
+344;Relleno;14.4;3.2;5;Almuerzo
+345;Salchicha blanca chica;12;2;43.2;Almuerzo
+346;Salchicha blanca grande;13.6;3.5;32.3;Almuerzo
+347;Hot Dog;11;2.1;34.3;Merienda
+348;Salchicha de “Huacho”;12.9;2.4;44;Merienda
+349;Tocino;13.5;0.8;47.9;Almuerzo
+350;Alpaca, carne pulpa de;24.1;0.3;0.5;Almuerzo
+351;Carnero, criadillas fritas**;15.8;1.6;3;Almuerzo
+352;Carnero, panza cocida (mondongo)**;12.3;3.7;3.1;Almuerzo
+353;Carnero, pierna cocida**;24.8;0.5;17.6;Almuerzo
+354;Carnero, sangre cocida**;20.4;0;4.5;Almuerzo
+355;Codorniz, carne cocida de **;21.1;9.6;8.4;Almuerzo
+356;Cuy, carne de;19;0.1;1.6;Almuerzo
+357;Llama, carne fresca de**;22.5;2.7;3.3;Almuerzo
+358;Llama, carne seca de (charqui);57.7;1.1;3.6;Almuerzo
+359;Pate de hígado de pollo, envasado*;13.5;6.6;13.1;Almuerzo
+360;Pollo, mollejas cocidas de**;23.7;2.6;4.9;Almuerzo
+361;Pollo, pechuga cocida de**;18.9;8.8;11.3;Almuerzo
+362;Pollo, pechuga frita de**;19.6;8;31.5;Almuerzo
+363;Pollo, pierna cocida de**;20.2;4.4;10.5;Almuerzo
+364;Pollo, pierna frita de**;20.7;5.9;12.4;Almuerzo
+365;Res, bazo cocido de**;18.2;6.3;2;Almuerzo
+366;Res, carne frita**;15.4;6.1;10.7;Almuerzo
+367;Res, carne molida frita**;15.6;1.8;14.1;Almuerzo
+368;Res, cuadril, churrasco***;22;0;5;Almuerzo
+369;Res, hígado frito**;21;8;6.4;Almuerzo
+370;Res, lengua cocida**;16.6;9.5;18.2;Almuerzo
+371;Res, panza cocida**;19.7;0.4;4.1;Almuerzo
+372;Res, pata de**;8.2;19.3;1.1;Almuerzo
+373;Leche condensada endulzada;7.9;53.7;9.2;Merienda
+374;Leche en polvo descremada;36.2;52;0.8;Cena
+375;Leche en polvo entera;27;36.1;26.1;Cena
+376;Leche evaporada descremada;7.1;10.5;0.9;Cena
+377;Leche evaporada entera;6.3;10.9;7.7;Cena
+378;Leche fresca entera (plusa);3.2;5.1;3.2;Cena
+379;Leche fresca de cabra;3.2;5;3.8;Cena
+380;Leche fresca de vaca;3.1;4.9;3.5;Cena
+381;Queso fresco de cabra;16.3;3.4;10.3;Cena
+382;Queso fresco de vaca;17.5;3.3;20.1;Cena
+383;Queso mantecoso;28;3.3;30;Cena
+384;Queso parmesano duro;39.1;1.8;30.3;Cena
+385;Yogurt de leche entera;3.5;4.7;3.3;Cena
+386;Yogurt frutado de leche semidescremada;4.1;18.5;2.8;Cena
+387;Yogurt frutado de leche descremada;4.4;19;0.2;Cena
+388;Yogurt natural de leche descremada;5.7;7.7;0.2;Cena
+389;Leche fresca de vaca, descremada***;2.5;5;0;Cena
+390;Leche parcialmente descremada sabor “chocolate” UHT;3;11.3;2.8;Cena
+391;Queso andino;22.6;0.6;31.4;Cena
+392;Queso Paria;19.2;0;24.5;Cena
+393;Yogurt bebible descremado durazno con calcio;4.1;8.1;0.1;Cena
+394;Yogurt bebible de fresa;2.7;14.5;1.2;Cena
+395;Leche en polvo descremada;36.2;52;0.8;Desayuno
+396;Leche en polvo entera;27;36.1;26.1;Desayuno
+397;Leche evaporada descremada;7.1;10.5;0.9;Desayuno
+398;Leche evaporada entera;6.3;10.9;7.7;Desayuno
+399;Leche fresca entera (plusa);3.2;5.1;3.2;Desayuno
+400;Leche fresca de cabra;3.2;5;3.8;Desayuno
+401;Leche fresca de vaca;3.1;4.9;3.5;Desayuno
+402;Leche materna;1;6.9;4.4;Desayuno
+403;Queso fresco de cabra;16.3;3.4;10.3;Desayuno
+404;Queso fresco de vaca;17.5;3.3;20.1;Desayuno
+405;Queso mantecoso;28;3.3;30;Desayuno
+406;Queso parmesano duro;39.1;1.8;30.3;Desayuno
+407;Yogurt de leche entera;3.5;4.7;3.3;Desayuno
+408;Yogurt frutado de leche semidescremada;4.1;18.5;2.8;Desayuno
+409;Yogurt frutado de leche descremada;4.4;19;0.2;Desayuno
+410;Yogurt natural de leche descremada;5.7;7.7;0.2;Desayuno
+411;Leche fresca de vaca, descremada***;2.5;5;0;Desayuno
+412;Leche parcialmente descremada sabor “chocolate” UHT;3;11.3;2.8;Desayuno
+413;Queso andino;22.6;0.6;31.4;Desayuno
+414;Queso Paria;19.2;0;24.5;Desayuno
+415;Yogurt bebible descremado durazno con calcio;4.1;8.1;0.1;Desayuno
+416;Yogurt bebible de fresa;2.7;14.5;1.2;Desayuno
+417;Chicha de aguaje;0.4;11.2;0.8;Almuerzo
+418;Chicha de cebada;0.1;5.5;0.2;Almuerzo
+419;Chicha de jora;0.4;5.8;0.3;Almuerzo
+420;Chicha de maíz morado con azúcar;0;4.9;0;Almuerzo
+421;Chicha de maní;0.5;6.3;0.8;Almuerzo
+422;Chicha de pijuayo;0.8;10.6;0.1;Almuerzo
+423;Chicha de soya;0.6;9.1;0.2;Almuerzo
+424;Chicha de yuca (masato);0.2;8.9;0.1;Almuerzo
+425;Bebida de soya;3;3.8;1.4;Almuerzo
+426;Té sin azúcar;0.1;0.2;0;Desayuno
+427;Café sin azúcar;0.1;0.6;0;Desayuno
+428;Té sin azúcar;0.1;0.2;0;Cena
+429;Café sin azúcar;0.1;0.6;0;Cena
+430;Huevo de charapa;16.3;1.8;16;Desayuno
+431;Huevo de gallina entero sancochado en agua;12.8;0;9.9;Desayuno
+432;Yema de huevo de gallina;15.6;1.9;30.9;Desayuno
+433;Huevo de tortuga motelo;16.4;1.6;7.3;Desayuno
+434;Huevo de pata;13.1;2.3;11.1;Desayuno
+435;Huevo de pata, yema de;15.1;2.8;38.8;Desayuno
+436;Huevo de tortuga taricaya;15.1;2.9;11.3;Desayuno
+437;Huevo de gallina, clara sancochada en agua;11.9;0;0.3;Desayuno
+438;Huevo de gallina, yema sancochada en agua;16.3;0;32.1;Desayuno
+439;Huevo de codorniz, entero sancochado en agua;12.7;0;12.4;Desayuno
+440;Huevo de codorniz, clara sancochada en agua;10.6;0;0.1;Desayuno
+441;Huevo de codorniz, yema sancochada en agua;13.5;0;26.2;Desayuno
+442;Huevo de charapa;16.3;1.8;16;Cena
+443;Huevo de gallina, clara de;10.9;0.7;0.2;Cena
+444;Huevo de gallina entero, sancochado en agua;12.8;0;9.9;Cena
+445;Yema de huevo de gallina;15.6;1.9;30.9;Cena
+446;Huevo de tortuga motelo;16.4;1.6;7.3;Cena
+447;Huevo de pata;13.1;2.3;11.1;Cena
+448;Huevo de pata, yema de;15.1;2.8;38.8;Cena
+449;Huevo de tortuga taricaya;15.1;2.9;11.3;Cena
+450;Huevo de gallina, clara sancochada en agua;11.9;0;0.3;Cena
+451;Huevo de gallina, yema sancochada en agua;16.3;0;32.1;Cena
+452;Huevo de codorniz, entero sancochado en agua;12.7;0;12.4;Cena
+453;Huevo de codorniz, clara sancochada en agua;10.6;0;0.1;Cena
+454;Huevo de codorniz, yema sancochada en agua;13.5;0;26.2;Cena
+455;Café grano sin tostar;11.7;68.2;10.8;Cena
+456;Cocoa;19;47.8;17.1;Cena
+457;Caldo de res*;1.2;3.3;2.4;Almuerzo
+458;Caldo de pollo, o gallina*;0.2;0;9.8;Almuerzo
+459;Caldo de res*;1.2;3.3;2.4;Cena
+460;Caldo de pollo, o gallina*;0.2;0;9.8;Cena
+461;Yuca asada;0.6;44.4;0.3;Almuerzo
+462;Yuca blanca sancochada;0.5;36.4;0.2;Almuerzo
+463;Camote de Huarayoc;1.6;26.1;0.2;Almuerzo
+464;Camote deshidratado;3.7;82.4;0.7;Almuerzo
+465;Camote deshidratado tratado con lejía;5.3;79.6;0.8;Almuerzo
+466;Aguadito de pollo;2.4;6.7;1;Almuerzo
+467;Aguadito de pollo;2.3;6.7;0.9;Cena
+468;Aguadito de pescado;0.6;4.3;0.6;Almuerzo
+469;Aguadito de pescado;2.2;7;0.3;Almuerzo
+470;Alita broaster con ensalada de lechuga;8.2;12.3;6.7;Almuerzo
+471;Ancoquis en salsa roja;5.2;17.1;4.4;Almuerzo
+472;Atún vegano;11.9;21.2;3.1;Almuerzo
+473;Caldo;2.2;6.9;0.2;Almuerzo
+474;Caldo;2.2;6.9;0.2;Cena
+475;Caldo de carne;2.6;7.6;0.2;Almuerzo
+476;Caldo de carne;1.8;5.5;0.1;Cena
+477;Caldo de cordero;1.2;3.9;0.6;Almuerzo
+478;Caldo de cordero;4.5;6.2;2.7;Cena
+479;Caldo de gallina;3.8;8.1;0.6;Almuerzo
+480;Caldo de gallina;2.8;6.9;0.4;Cena
+481;Caldo de mote;2.8;13.9;0.5;Almuerzo
+482;Caldo de mote;3.3;10.8;0.8;Cena
+483;caldo de pescado;1;7.3;0.1;Almuerzo
+484;caldo de pescado;1;7.3;0.1;Cena
+485;Caldo de pollo;1.6;7.8;0.3;Almuerzo
+486;Caldo de pollo;3.7;9.2;1.4;Cena
+487;Caldo de res;1.9;11.1;0.1;Almuerzo
+488;Carpaccio de pescado;14;3.3;1.9;Almuerzo
+489;Causa;4.7;14.1;2.5;Almuerzo
+490;Causa de palta;1.4;9.6;11.9;Almuerzo
+491;Causa de pescado;3.2;18.8;4.3;Almuerzo
+492;Causa de pescado;3.4;18.4;2.9;Cena
+493;Causa de pollo;4.5;15.5;5.8;Almuerzo
+494;Causa de pollo;2.8;17.9;5.8;Cena
+495;Causa de pulpa de cangrejo;6.7;9.4;17.6;Almuerzo
+496;Causa criolla;2.4;18;10.7;Almuerzo
+497;Causa rellena;3.7;17.5;4.2;Almuerzo
+498;Cazuela;1.9;4.5;0.8;Almuerzo
+499;Cazuela de pollo;2.2;6.5;0.6;Desayuno
+500;Cazuela de res;1.3;5.2;0.1;Cena
+501;Cazuela de res;1.6;5.5;0.4;Desayuno
+502;Cebiche de pescado;7.3;13;1.4;Almuerzo
+503;Cebiche de pescado con chicharrón de pota;6.9;24.8;2.7;Cena
+504;Cebiche de pescado con pota;4.4;14.1;0.2;Desayuno
+505;Cebiche de pota;5.1;7.8;0.4;Almuerzo
+506;Cebiche mixto;8.4;8.8;0.5;Almuerzo
+507;Cebiche y chilcano de pescado;6.3;5.8;2.9;Desayuno
+508;Chaque;5.5;9.5;0.6;Almuerzo
+509;Chilcano de pescado;2.3;0.5;0.2;Almuerzo
+510;Chicharrón con salsa criolla y leche de tigre;5.7;9.3;0.7;Desayuno
+511;Chicharrón de pollo;2.7;20.2;1.6;Almuerzo
+512;Choritos a la chalaca;6.2;8.6;1.2;Almuerzo
+513;Choclo a la huancaína;5.4;12;5.4;Almuerzo
+514;Choclo con queso;2.5;0.9;2.8;Almuerzo
+515;Choclo con queso;15.1;7.4;16.8;Desayuno
+516;Chupe de camarón;1.8;8.2;1.9;Almuerzo
+517;Chupe de cangrejo;1.9;4.4;0.3;Almuerzo
+518;Chupe de chochoca;1.6;8.3;1.6;Almuerzo
+519;Chupe de choro;2.2;6.9;0.7;Almuerzo
+520;Chupe de habas;1.5;5.9;0.4;Almuerzo
+521;Chupe de mariscos;1.7;6.5;0.8;Almuerzo
+522;Chupe de pescado;2.7;6.9;1.3;Almuerzo
+523;Chupe de pollo;2.8;4.3;0.9;Almuerzo
+524;Chupe de trigo;0.6;2.8;0.3;Cena
+525;Chupe mixto;1.4;1.6;0.4;Almuerzo
+526;Consomé de pollo;2.6;2.3;1.1;Almuerzo
+527;Crema de arveja;3.2;11.3;1;Almuerzo
+528;Crema de ocopa;3.1;16.9;3.6;Almuerzo
+529;Crema de pimiento;4.4;13.9;4;Almuerzo
+530;Crema de rocoto;3.1;15.9;6.3;Almuerzo
+531;Crema de verdura;0.6;2;0.9;Almuerzo
+532;Crema de zapallo;0.7;3.8;0.9;Almuerzo
+533;Ensalada;1.9;7.9;7.9;Almuerzo
+534;Ensalada;1.1;6.7;2.5;Almuerzo
+535;Ensalada cesar;4.7;4.6;4.8;Almuerzo
+536;Ensalada de atún;3.9;14.6;1.3;Almuerzo
+537;Ensalada de cocona;1.2;10.4;0.4;Almuerzo
+538;Ensalada de fideos;5.9;39.3;11.4;Almuerzo
+539;Ensalada de lechuga;0.6;2.6;5.7;Almuerzo
+540;Ensalada de verduras;1.1;6;4.2;Almuerzo
+541;Ensalada de verduras;1.1;6.3;11.3;Almuerzo
+542;Ensalada rusa;0.7;4.3;2.7;Almuerzo
+543;Flauta rellena;13.3;12.5;3.2;Almuerzo
+544;Flauta rellena;13.3;12.5;3.2;Almuerzo
+545;Huevo a la rusa;3;12.4;3.6;Cena
+546;Huevo a la rusa;3.5;8.6;3.2;Almuerzo
+547;Huevitos en salsa golf;0.9;4.4;7.5;Almuerzo
+548;Hummus;7;38;3.9;Almuerzo
+549;Menestrón con pollo;7.7;27;2.2;Almuerzo
+550;Menestrón con res;2.8;9.3;0.3;Almuerzo
+551;Ocopa a la arequipeña;4.8;16.9;6.2;Almuerzo
+552;Palta rellena;3.7;15.4;18.7;Almuerzo
+553;Pan al ajo;7;40.7;9.1;Almuerzo
+554;Papa a la huancaína;3.5;18.5;4;Almuerzo
+555;Papas a la rioja;2.5;8.9;1.7;Almuerzo
+556;Papa con huevo;6.3;7.7;7.1;Almuerzo
+557;Papas fritas;1.4;14.9;33.4;Almuerzo
+558;Papas fritas;1.4;14.9;33.4;Almuerzo
+559;Papa rellena;4.8;16.4;23.6;Almuerzo
+560;Papa rellena con ensalada;3.3;17.6;6;Almuerzo
+561;Papa rellena con sarsa criolla;3.9;16;9.6;Almuerzo
+562;Parihuela;6.4;12.3;7.1;Almuerzo
+563;Pastel de papa;6.2;14.7;6.1;Almuerzo
+564;Patasca;6.5;2.7;7.8;Cena
+565;Pejerrey arrebosado;6.9;15.7;9.3;Almuerzo
+566;Rocoto relleno;6.6;11.2;7.5;Almuerzo
+567;Salpicón de atún;7.9;32.4;11;Almuerzo
+568;Salpicón de pollo;4.6;13.9;5.5;Almuerzo
+569;Salpicón de verduras;3.3;18;10.9;Almuerzo
+570;Sancochado con pollo;5;8.5;0.7;Almuerzo
+571;Sancochado con res;1.7;7.3;0.4;Almuerzo
+572;Shambar;4.3;9.1;1;Almuerzo
+573;Solterito;5;13;2.6;Cena
+574;Sopa a la minuta;5.3;9.3;1.5;Almuerzo
+575;Sopa a la minuta de pollo;2.9;9;1.3;Almuerzo
+576;Sopa campesina;2.2;0.4;8.5;Cena
+577;Sopa chilena;2.1;0.3;3.3;Almuerzo
+578;Sopa criolla con pollo;1;0.5;2.9;Almuerzo
+579;Sopa criolla con res;3.1;0.6;6;Almuerzo
+580;Sopa de arroz;1.4;0.5;3.9;Almuerzo
+581;Sopa de arroz con res;0.4;0;3.6;Almuerzo
+582;Sopa de arverja;2.9;0.4;20.2;Almuerzo
+583;Sopa de cangrejo;1.4;0.1;7.5;Almuerzo
+584;Sopa de casa;2.1;0.3;10.4;Almuerzo
+585;Sopa de casa con res;2.2;7.9;0.2;Almuerzo
+586;Sopa de choro;1.8;5.8;0.2;Almuerzo
+587;Sopa de fideos;2.3;5.7;0.8;Cena
+588;Sopa de fideos con res;2.9;9.4;0.8;Almuerzo
+589;Sopa de frejoles;3.4;10.3;0.5;Almuerzo
+590;Sopa de gallina;2.6;6.6;0.3;Almuerzo
+591;Sopa de habas;2.2;10.1;0.7;Almuerzo
+592;Sopa de hueso de res;0.4;4;0.2;Almuerzo
+593;Sopa de leche;1.5;6.9;0.8;Almuerzo
+594;Sopa de menudencia;2.7;11.3;0.2;Almuerzo
+595;Sopa de morón con pollo;3.1;11;1.4;Almuerzo
+596;Sopa de morón con res;1.9;6.4;0.5;Almuerzo
+597;Sopa de mote;2.7;14.1;0.8;Almuerzo
+598;Sopa de mote con res;1.5;7.1;0.4;Almuerzo
+599;Sopa de papa;1.7;8.7;6;Almuerzo
+600;Sopa de pescado;1.9;10.1;0.4;Almuerzo
+601;Sopa de pollo;2.3;8;0.6;Almuerzo
+602;Sopa de res;2;11.1;0.3;Almuerzo
+603;Sopa de sémola;3.5;6.7;1.6;Almuerzo
+604;Sopa de sémola con pollo;2.1;6.2;0.8;Almuerzo
+605;Sopa de sémola con res;2.6;11.4;0.3;Almuerzo
+606;Sopa de trigo;1.3;5.5;0.5;Almuerzo
+607;Sopa de trigo con pollo;2.1;7;0.7;Almuerzo
+608;Sopa de trigo con res;1.7;11.4;0.3;Almuerzo
+609;Sopa de verduras;2.5;5.9;0.2;Almuerzo
+610;Sopa de verduras con pollo;2.9;10.2;0.6;Almuerzo
+611;Sopa de verduras con res;1.6;11.7;0.2;Almuerzo
+612;Sopa wantán;4.8;12.9;3;Almuerzo
+613;Sustancia;3.3;9.5;1.1;Almuerzo
+614;Sustancia de pollo;3.6;7.8;0.4;Almuerzo
+615;Sustancia de res;1.9;7.4;0.6;Almuerzo
+616;Sustancia de res;1.8;11.1;0.5;Almuerzo
+617;Tamal de pollo;5.6;48.2;11.3;Almuerzo
+618;Tamal verde;3.7;22.6;6.9;Almuerzo
+619;Tequeños;8.4;29.4;45.2;Almuerzo
+620;Tequeños;8.5;29.5;45.3;Almuerzo
+621;Tequeños con crema a la huancaína;10.8;41.6;20.5;Almuerzo
+622;Tequeños con guacamole;10.2;50.7;16.1;Almuerzo
+623;Tequeños de queso;6.7;35.1;22;Almuerzo
+624;Tiradito de pejerrey;6.7;16.2;1.1;Almuerzo
+625;Wantán frito;6.6;42.3;5.2;Almuerzo
+626;Yucas rellenas;4;16.9;8.2;Almuerzo
+627;Adobo de cerdo y arroz;6.3;31.8;1.9;Almuerzo
+628;Adobo de cerdo con menestra y arroz;9.7;23.8;3.4;Almuerzo
+629;Adobo de cerdo con puré y arroz;4.8;20.3;5;Almuerzo
+630;Adobo de pollo y arroz;6.6;25.1;2.1;Almuerzo
+631;Adobo de pollo con ensalada y arroz;4.9;26;2.2;Almuerzo
+632;Adobo de res con arroz y puré;5.6;22.1;1.8;Almuerzo
+633;Adobo de res con menestra y arroz;7.7;27.8;1.7;Almuerzo
+634;Aeropuerto de pollo;6.5;39.8;2.5;Almuerzo
+635;Aeropuerto tacon pa;7.6;28.7;3.4;Almuerzo
+636;Ají de pollo y arroz;5.4;22.3;2.8;Almuerzo
+637;Ají de pollo y arroz;5.4;27.4;2.6;Almuerzo
+638;Albóndigas en salsa y arroz;6.3;18.3;3.6;Almuerzo
+639;Alita broaster con papas fritas y arroz;5.7;20.3;18.7;Almuerzo
+640;Anticucho con papa y arroz;9.3;12.1;3.2;Almuerzo
+641;Arroz a la jardinera con pollo;7.3;24.7;1.2;Almuerzo
+642;Arroz a la jardinera con pollo frito;4.5;30.2;2.5;Almuerzo
+643;Arroz arabe con pollo;3.5;34.4;1;Almuerzo
+644;Arrozblanco con filete de pollo, papas sancochadasy ensalada;6.5;23.8;2.5;Almuerzo
+645;Arroz chaufa con pollo chijaukay;7.5;23.7;9.4;Almuerzo
+646;Arroz chaufa con pollo tamarindo;6.3;22.2;1.4;Almuerzo
+647;Arroz chaufa con pollo taypa especial;8.9;11.7;4.4;Almuerzo
+648;Arroz chaufa de cerdo;6.8;29.6;4.9;Almuerzo
+649;Arroz chaufa de mariscos;6.3;24.1;0.9;Almuerzo
+650;Arroz chaufa de pollo;6.7;28.4;3;Almuerzo
+651;Arroz chaufa de res;6.3;23.1;14.9;Almuerzo
+652;Arroz chaufa especial;10.5;23;7.5;Almuerzo
+653;Arroz con carne;4.9;23.6;0.5;Almuerzo
+654;Arroz con cerdo con sarsa criolla;4.1;24.2;2.9;Almuerzo
+655;Arroz con frejol y seco de res;6.3;20.2;1.7;Almuerzo
+656;Arroz con frejoles y seco de pollo;6.8;20.1;2.4;Almuerzo
+657;Arroz con lentejas con churrasco;9.4;23.1;2.9;Almuerzo
+658;Arroz con mariscos;5.3;26.8;3.2;Almuerzo
+659;Arroz con pato;5.6;21.3;7.1;Almuerzo
+660;Arroz con pollo;6.9;23.6;2.2;Almuerzo
+661;Arroz tapado;7.3;21.4;4.4;Almuerzo
+662;Arvejita verde partida con estofado de pollo y arroz;8.8;20.2;2.8;Almuerzo
+663;Arvejita verde partida con guiso de pollo y arroz;7.8;24.5;1.2;Almuerzo
+664;Arvejita verde partida con hígado frito y arroz;4.6;29.8;1.1;Almuerzo
+665;Arvejita verde partida con pollo al horno y arroz;7.3;15.6;3.4;Almuerzo
+666;Arvejita verde partida con pescado frito y arroz;5.2;27.8;13.7;Almuerzo
+667;Asado de cerdo con arvejita verde y arroz;9.4;19.5;1.8;Almuerzo
+668;Asado de cerdo con arvejita verde y arroz;7.2;25.7;2;Almuerzo
+669;Asado de cerdo con menestra y arroz;8;24.9;2.2;Almuerzo
+670;Asado de pollo y arroz;8;20.9;3.5;Almuerzo
+671;Asado de pollo con menestra y arroz;7.4;19.8;1.5;Almuerzo
+672;Asado de pollo con puré y arroz;6.4;23.7;2.7;Almuerzo
+673;Asado de res y arroz;4.3;30.4;0.6;Almuerzo
+674;Asado de res con menestra y arroz;5.7;18.3;0.9;Almuerzo
+675;Asado de res con puré y arroz;6.1;19.6;1.5;Almuerzo
+676;Asado de res con puré y arroz;4.8;21.2;1.6;Almuerzo
+677;Bisteck de res a lo pobre con arroz;7.6;21.5;5.7;Almuerzo
+678;Bisteck de res a lo pobre con arroz;5.5;27.7;6.1;Almuerzo
+679;Bisteck de res a lo pobre con arroz;5.5;17.9;6;Almuerzo
+680;Bisteck de res con arroz;6.7;20.7;2.1;Almuerzo
+681;Bisteck de res con arroz;7.5;18.6;7.3;Almuerzo
+682;Bisteck de res con papas fritas y arroz;3.4;13.5;3.1;Almuerzo
+683;Cabrito a la norteña con arroz;7.3;22.5;1.7;Almuerzo
+684;Cabrito a la norteña con arroz;3.8;15.6;0.7;Almuerzo
+685;Cabrito con frejoles y arroz;5.5;19.3;7.5;Almuerzo
+686;Carapulcra y arroz;6.1;24.3;4;Almuerzo
+687;Carapulcra de cerdo y arroz;8.8;29.5;3.3;Almuerzo
+688;Carne de res con ensalada y arroz;6.9;22.7;10.5;Almuerzo
+689;Cau cau con arroz;5.3;16.9;2.8;Almuerzo
+690;Causa con pollo al horno y arroz;3.3;24.1;2.3;Almuerzo
+691;Cebiche con chicharrón;9.1;15.1;7.9;Almuerzo
+692;Cebiche con chicharrón;11;11.3;10.1;Almuerzo
+693;Cebiche de pescado;9.2;7;1;Almuerzo
+694;Cebiche de pollo con arroz;7.6;21.7;2.3;Almuerzo
+695;Cerdo al horno con arroz;7.7;23.3;3.5;Almuerzo
+696;Chanfainita con arroz;4.3;28.6;1.8;Almuerzo
+697;Chanfainita con tallarín;5.8;31.4;0.7;Almuerzo
+698;Chicken quesadilla;12.2;14.3;9.9;Almuerzo
+699;Chuleta a la parrilla con arroz;6.3;17.2;1.8;Almuerzo
+700;Chuleta de cerdo con papas fritas y arroz;6.7;19.5;8;Almuerzo
+701;Churrasco con arroz;3.8;19.1;0.7;Almuerzo
+702;Churrasco con frejoles y arroz;10.9;17.8;6.4;Almuerzo
+703;Churrasco con papas fritas con ensalada y arroz;4.6;24.4;4.3;Almuerzo
+704;Combinado de pollo;6.5;35.6;1.4;Almuerzo
+705;Combinado de res;4.5;24.8;3.8;Almuerzo
+706;Combinado de tallarín rojo con frejoles y arroz;10.4;32.8;3.6;Almuerzo
+707;Cordero a la norteña con frejoles y arroz;10.4;21.3;6.3;Almuerzo
+708;Cordero a la norteña con frejoles y arroz;8.6;28.9;4.3;Almuerzo
+709;Cordero a la norteña con frejoles y arroz;7.5;20.8;3.8;Almuerzo
+710;Costillas barbiquiu con arroz y camote;6.5;22.5;8.2;Almuerzo
+711;Costillas con papa y arroz;8.3;20.3;5.7;Almuerzo
+712;Costillas norteño con frejoles y arroz;8;22.2;3.3;Almuerzo
+713;Encebollado de hígado con frejoles y arroz;8.8;18.1;6.2;Almuerzo
+714;Ensalada rusa con pollo broaster y arroz;8.8;19.2;4.9;Almuerzo
+715;Ensalada rusa con pollo a la brasa y arroz;8.8;19.7;3.4;Almuerzo
+716;Ensalada rusa con pollo al horno y arroz;9.8;21.4;1.4;Almuerzo
+717;Ensalada rusa con pollo frito y arroz;7.3;29.6;2.6;Almuerzo
+718;Ensalada rusa con pollo frito y arroz;7;9;8.4;Almuerzo
+719;Escabeche de pescado con arroz;5.7;21.8;1.8;Almuerzo
+720;Escabeche de pescado con arroz;3.3;30.6;10.2;Almuerzo
+721;Escabeche de pescado con arroz;10.9;17;11.1;Almuerzo
+722;Escabeche de pollo con arroz;6.4;27.8;2.1;Almuerzo
+723;Estofado de pavita con arroz y ensalada;5.5;21.2;3.1;Almuerzo
+724;Estofado de pavita con arroz y ensalada;5.8;23.2;2.3;Almuerzo
+725;Estofado de pollo con arroz;8.9;17.2;1.6;Almuerzo
+726;Estofado de pollo con arroz y ensalada;5.4;20.8;1.6;Almuerzo
+727;Estofado de pollo con menestra y arroz;7.4;24.5;2;Almuerzo
+728;Estofado de res con arroz;8.3;24;0.9;Almuerzo
+729;Estofado de res con arroz;6.7;24.6;1.2;Almuerzo
+730;Estofado de res con menestra y arroz;7.4;22.5;1.2;Almuerzo
+731;Estofado de res con menestra y arroz;5.7;22.5;1;Almuerzo
+732;Estofado de lengua con arroz;4.9;17.3;5.1;Almuerzo
+733;Espesado de res con arroz;6.8;41.8;2;Almuerzo
+734;Fetuccini a lo alfredo;9.9;31.7;19.9;Almuerzo
+735;Filete de pescado con arroz;5.8;20.6;11.5;Almuerzo
+736;Filete de pescado con menestra y arroz;8;24.4;4;Almuerzo
+737;Filete de pescado con papas fritas, sarsa criolla y arroz;5.5;25.6;1.3;Almuerzo
+738;Filete de pescado en salsa de mariscos;6.4;25.5;0.8;Almuerzo
+739;Filete de pollo con papas fritas y arroz;7.2;16.4;2.9;Almuerzo
+740;Filete de pollo con papas fritas y arroz;8.9;18.4;4.8;Almuerzo
+741;Filete de pollo con papas fritas, ensalada y arroz;6.1;14.7;5.9;Almuerzo
+742;Filete de pollo con papas fritas, ensalada y arroz;4.9;13.6;14.5;Almuerzo
+743;Filete de pollo a la parrilla, ensalada y arroz;8.1;26.1;2.4;Almuerzo
+744;Frejoles con asado de carne y arroz;6.1;18.4;2.3;Almuerzo
+745;Frejoles con bisteck y arroz;9.4;25.6;0.9;Almuerzo
+746;Frejoles con bisteck y arroz;7.7;20.9;2.1;Almuerzo
+747;Frejoles con cabrito a la norteña y arroz;9.1;18.8;5.6;Almuerzo
+748;Frejoles con pescado y arroz;7.1;22.9;4.5;Almuerzo
+749;Frejoles con pescado con ensalada y arroz;4;23.8;16.3;Almuerzo
+750;Frejoles con pescado con ensalada y arroz;7.7;20.9;7.2;Almuerzo
+751;Frejoles con pescado con ensalada y arroz;8.9;24.4;5;Almuerzo
+752;Frejoles con pollo a la norteña y arroz;7;17.5;1.9;Almuerzo
+753;Frejoles con pollo al vino;4.1;30.9;2.2;Almuerzo
+754;Frejoles con seco a la norteña y arroz;7.7;25.5;1;Almuerzo
+755;Frejoles con seco y arroz;7.9;23.6;2.8;Almuerzo
+756;Frejoles con seco, ensalada y arroz;7.6;17.7;3.9;Almuerzo
+757;Garbanzo con arroz y chuleta frita;8.3;31.3;3.8;Almuerzo
+758;Garbanzo con chuleta y arroz;6.9;26.3;4.6;Almuerzo
+759;Garbanzo con churrasco, ensalada y arroz;6;22.4;3.3;Almuerzo
+760;Garbanzo con pescado y arroz;7.2;21.1;3.5;Almuerzo
+761;Garbanzo con pescado y arroz;6.2;20.5;2.6;Almuerzo
+762;Garbanzo con pollo y arroz;5.8;18.9;3.5;Almuerzo
+763;Guiso de caigua con arroz;6.7;22.3;2;Almuerzo
+764;Guiso de habas con churrasco y arroz;5.2;34.4;1.2;Almuerzo
+765;Guiso de quinua con pescado y arroz;4.8;22.6;8.2;Almuerzo
+766;Guiso de trigo con lomo de socona y arroz;2.5;14.8;1;Almuerzo
+767;Guiso de trigo con pollo y arroz;6.4;15.8;1.9;Almuerzo
+768;Guiso de vainita con pollo y arroz;4.3;18.8;0.7;Almuerzo
+769;Hígado encebollado con arroz;3.9;20.5;1.7;Almuerzo
+770;Hígado frito con arroz;5.4;26.4;5.1;Almuerzo
+771;Jalea con yuca frita;10.4;12.3;13.3;Almuerzo
+772;Jalea mixta;9.5;14.4;9.3;Almuerzo
+773;Jalea mixta con yuca frita;8.3;15.9;16.3;Almuerzo
+774;Jalea de pescado con arroz;3.7;8.1;0.4;Almuerzo
+775;Jalea de pescado con arroz;6.2;24.9;5.2;Almuerzo
+776;Jalea de pescado con yuca frita;6.2;28.2;4.5;Almuerzo
+777;Jalea de pescado con yuca frita;7.4;12.2;14.6;Almuerzo
+778;Kam lu wantán con arroz chaufa;5.4;15.9;0.9;Almuerzo
+779;Kam lu wantán con arroz chaufa;6.6;13.8;13;Almuerzo
+780;Kam lu wantán con arroz chaufa;6.1;24.8;3.2;Almuerzo
+781;Lasagna de res;10.6;35.5;8.2;Almuerzo
+782;Lasagna de res;15.8;38;18.2;Almuerzo
+783;Lenteja con adobo y arroz;7.5;23.7;0.3;Almuerzo
+784;Lenteja con bisteck y arroz;9.9;33.1;1.2;Almuerzo
+785;Lenteja con chuleta y arroz;7.1;25.1;3.7;Almuerzo
+786;Lenteja con estofado y arroz;7.5;20.5;2.3;Almuerzo
+787;Lenteja con filete de pechuga y arroz;8.2;21.8;1.1;Almuerzo
+788;Lenteja con filete de pechuga y arroz;8.7;6.3;9.7;Almuerzo
+789;Lenteja con hígado y arroz;8.8;30.5;2.4;Almuerzo
+790;Lenteja con lomito y arroz;7.2;23.5;1.5;Almuerzo
+791;Lenteja con milanesa y arroz;10.7;23;1.9;Almuerzo
+792;Lenteja con milanesa y arroz;8;24.7;2.4;Almuerzo
+793;Lenteja con pescado y arroz;7.2;22.7;4.1;Almuerzo
+794;Locro con hígado frito y arroz;3.1;18.2;5.6;Almuerzo
+795;Locro de zapallo con bisteck y arroz;3.1;17.3;4.1;Almuerzo
+796;Locro de zapallo con bisteck y arroz;5.1;19.3;2.2;Almuerzo
+797;Locro de zapallo con filete de pollo y arroz;6.1;20.4;4.2;Almuerzo
+798;Locro de zapallo con filete de pollo y arroz;5.6;21.5;1.4;Almuerzo
+799;Lomo al jugo con menestra y arroz;6.2;23.7;1.3;Almuerzo
+800;Lomo al jugo con menestra y arroz;3.8;15.7;1.4;Almuerzo
+801;Lomo a lo strogonof y arroz;9.3;22.9;1.9;Almuerzo
+802;Lomito de atún con arroz;4.3;29.9;2.2;Almuerzo
+803;Lomito de atún con arroz;4.9;24.8;4.9;Almuerzo
+804;Lomo saltado con arroz;5.3;18.6;7.3;Almuerzo
+805;Lomo saltado con arroz;7.3;22.9;7.2;Almuerzo
+806;Lomo saltado con arroz;5.1;19.3;5.4;Almuerzo
+807;Lomo saltado con arroz;4.3;22.3;5.1;Almuerzo
+808;Lomo saltado con arroz;4.6;21.3;8.2;Almuerzo
+809;Lomo saltado con menestra y arroz;6;23.4;4.6;Almuerzo
+810;Macarrones con pollo;8.2;23;4.3;Almuerzo
+811;Macarrones con pollo;9;26.9;4.5;Almuerzo
+812;Macarrones con pollo;6.5;20;1.9;Almuerzo
+813;Macarrones con pollo;7.5;19.8;1.9;Almuerzo
+814;Macarrones con res;6.4;33.7;2.3;Almuerzo
+815;Malaya dorada con arroz;6.6;28.9;0.9;Almuerzo
+816;Milanesa con arroz;5.4;21.8;7.3;Almuerzo
+817;Milanesa con ensalada y arroz;5.8;19.7;6.2;Almuerzo
+818;Milanesa con ensalada y arroz;4.4;29.3;1.5;Almuerzo
+819;Milanesa con ensalada y arroz;5.2;22.4;5;Almuerzo
+820;Milanesa con menestra y arroz;9.3;20.4;3.6;Almuerzo
+821;Milanesa con papas fritas y arroz;4.8;20.2;6.2;Almuerzo
+822;Molleja saltada con arroz;7;14.5;1.2;Almuerzo
+823;Mondonguito a la italiana con arroz;5.3;26;1.3;Almuerzo
+824;Olluquito con arroz integral;5.1;21.4;2.4;Almuerzo
+825;Olluquito de charqui con arroz;6.2;26.5;3.1;Almuerzo
+826;Olluquito de res con arroz;5;25.4;0.5;Almuerzo
+827;Pachamanca a la olla con arroz;7.5;23.8;1.4;Almuerzo
+828;Pallares con chuleta y arroz;6.2;20.5;1.3;Almuerzo
+829;Pallares con guiso de pollo y arroz;9.5;26.5;2.8;Almuerzo
+830;Pallares con pescado y arroz;5.9;28.2;3.2;Almuerzo
+831;Pallares con pescado y arroz;7.8;21.6;1.6;Almuerzo
+832;Pallares con pollo y arroz;5.8;18.8;4.2;Almuerzo
+833;Pavita al horno con arroz;5.7;18.7;6.7;Almuerzo
+834;Pavita al vino con arroz;4.4;32.1;1.3;Almuerzo
+835;Pavita a la norteña con arroz;5.7;26.3;2.3;Almuerzo
+836;Pavita con ensalada y arroz;4.5;19.9;15.2;Almuerzo
+837;Pavita con menestra y arroz;6;21.5;3.1;Almuerzo
+838;Pavita con menestra y arroz;7.2;22.3;3.4;Almuerzo
+839;Pavita con puré y arroz;7.2;19.9;4.8;Almuerzo
+840;Patita con maní y arroz;4.1;25.2;1.7;Almuerzo
+841;Pasta al pesto;5.8;19.5;1.8;Almuerzo
+842;Pasta otros;8.6;15.1;3;Almuerzo
+843;Pechuga a la plancha con ensalada y arroz;6.7;17.8;3.7;Almuerzo
+844;Pescado a la chorrillana con arroz;5.4;22.7;12.3;Almuerzo
+845;Pescado a lo macho con arroz;6.9;20.3;4.6;Almuerzo
+846;Pescado a lo macho con arroz;7.8;22.3;6.8;Almuerzo
+847;Pescado con arroz;7.3;20.4;5.1;Almuerzo
+848;Pescado con arroz;6.4;21.9;4.6;Almuerzo
+849;Pescado con arroz;6.1;23.8;2.5;Almuerzo
+850;Pescado con arroz;7.1;20.7;2.3;Almuerzo
+851;Pescado con ensalada y arroz;7.6;24.7;2.6;Almuerzo
+852;Pescado con menestra y arroz;10.3;25;4.2;Almuerzo
+853;Pescado con menestra y arroz;8.1;29;6.3;Almuerzo
+854;Pescado con menestra y arroz;4.9;23.5;5.1;Almuerzo
+855;Pescado con menestra y arroz;7.4;21.3;5;Almuerzo
+856;Pescado en salsa de champiñones con arroz;6.7;19.8;9;Almuerzo
+857;Pescado en salsa de langostinos con arroz;6.1;27.2;5;Almuerzo
+858;Picante de cuy con arroz;4;13.9;11.2;Almuerzo
+859;Picante de cuy con arroz;4.7;34.5;6.9;Almuerzo
+860;Picante de pollo con arroz;13.1;9.1;32.1;Almuerzo
+861;Picante de res con arroz;4.9;20.5;1.6;Almuerzo
+862;Pollo a la leña;3.3;15.8;9.8;Almuerzo
+863;Pollo a la naranja con arroz;10.1;15.8;2.7;Almuerzo
+864;Pollo a la norteña con arroz;8.6;19.8;1.9;Almuerzo
+865;Pollo a la norteña con arroz;9.4;22.5;1.8;Almuerzo
+866;Pollo a la norteña con arroz;8.4;19.7;2.1;Almuerzo
+867;Pollo a la norteña con menestra y arroz;9.6;15.4;2.4;Almuerzo
+868;Pollo a la norteña con menestra y arroz;8.6;18.6;2.7;Almuerzo
+869;Pollo a la norteña con menestra y arroz;7;14.2;0.9;Almuerzo
+870;Pollo a la huachana con menestra y arroz;7.4;18.7;3.2;Almuerzo
+871;Pollo a la olla con arroz;7.3;23.8;2.4;Almuerzo
+872;Pollo a la olla con menestra y arroz;5.8;27.1;1.9;Almuerzo
+873;Pollo a la olla con menestra y arroz;9.2;24.3;2.2;Almuerzo
+874;Pollo a la olla con menestra y arroz;9.8;29.1;1.8;Almuerzo
+875;Pollo a la olla con ensalada y arroz;4.8;18.9;2.4;Almuerzo
+876;Pollo a la olla con ensalada y arroz;7.3;20.7;1.2;Almuerzo
+877;Pollo a la olla con puré y arroz;3.7;27.9;2;Almuerzo
+878;Pollo a la olla con puré y arroz;6.1;13.5;1.5;Almuerzo
+879;Pollo a la parrilla con arroz y papas fritas;7.4;14.6;20.7;Almuerzo
+880;Pollo a la parrilla con ensalada y arroz;3.3;29;3.3;Almuerzo
+881;Pollo a la parrilla con ensalada y arroz;9.4;17.3;3.3;Almuerzo
+882;Pollo a la parrilla con ensalada rusa y arroz;8.1;16;7.3;Almuerzo
+883;Pollo a la parrilla con ensalada rusa y arroz;5.1;9.6;3.9;Almuerzo
+884;Pollo a la parrilla con puré y arroz;5.6;18.9;3.8;Almuerzo
+885;Pollo a la plancha con arroz;4.8;13.7;0.9;Cena
+886;Pollo a la plancha con ensalada y arroz;8.6;25.5;1.1;Almuerzo
+887;Pollo a la plancha con ensalada y arroz;3.1;28.9;0.4;Almuerzo
+888;Pollo a la plancha con menestra y arroz;8.5;25.4;1.4;Almuerzo
+889;Pollo a la plancha con menestra y arroz;11.7;33.6;1.5;Almuerzo
+890;Pollo a la plancha con papas doradas y arroz;3.1;26.7;4;Almuerzo
+891;Pollo a la plancha con papas fritas y arroz;8;17.6;2.8;Almuerzo
+892;Pollo a la plancha con papas fritas y arroz;2.9;27.9;2;Almuerzo
+893;Pollo a la plancha con papas fritas, ensalada y arroz;7.3;18.1;7.1;Almuerzo
+894;Pollo a la plancha con puré y arroz;9;15.4;3.6;Almuerzo
+895;Pollo al ají con menestra y arroz;5.2;26.7;0.9;Almuerzo
+896;Pollo al huacatay con arroz;10.4;22.4;1.3;Almuerzo
+897;Pollo al horno con arroz;8.2;23.6;1.4;Almuerzo
+898;Pollo al horno con ensalada y arroz;3.1;27.7;2.4;Almuerzo
+899;Pollo al horno con ensalada y arroz;8.8;22.1;3.7;Almuerzo
+900;Pollo al horno con ensalada y arroz;6.4;23.5;2;Almuerzo
+901;Pollo al horno con ensalada y arroz;9;14.3;4.4;Almuerzo
+902;Pollo al horno con ensalada rusa y arroz;9.6;16.7;3;Almuerzo
+903;Pollo al horno con menestra y arroz;8.4;19.4;2;Almuerzo
+904;Pollo al horno con menestra, ensalada y arroz;5.4;18.1;1.8;Almuerzo
+905;Pollo al horno con menestra, ensalada y arroz;6.7;17.5;2.5;Almuerzo
+906;Pollo al horno con pure y arroz;7.6;21.2;3.6;Almuerzo
+907;Pollo al horno con pure y arroz;7.1;24.6;3.1;Almuerzo
+908;Pollo al horno con pure y arroz;6.7;19.6;2.7;Almuerzo
+909;Pollo al horno con pure y arroz;7.3;20.1;3.2;Almuerzo
+910;Pollo al horno con puré, ensalada y arroz;9.4;15.2;2.8;Almuerzo
+911;Pollo al horno con puré, ensalada y arroz;6.6;21.1;2.8;Almuerzo
+912;Pollo al jugo con menestra y arroz;7.7;21.7;1.9;Almuerzo
+913;Pollo al maní con arroz;6.4;25.5;1.7;Almuerzo
+914;Pollo al maní con ensalada y arroz;3.2;20.9;7.7;Almuerzo
+915;Pollo al maní con menestra y arroz;9;21;2;Almuerzo
+916;Pollo al sillao con arroz;3.2;29.4;1.2;Almuerzo
+917;Pollo al sillao con ensalada y arroz;5.3;21.1;1.4;Almuerzo
+918;Pollo al vino con arroz;3;34;1.1;Almuerzo
+919;Pollo al vino con ensalada y arroz;6.2;24.7;1.1;Almuerzo
+920;Pollo al vino con menestra y arroz;9.3;23;2.7;Almuerzo
+921;Pollo broaster;5.4;20.2;10.2;Cena
+922;Pollo broaster;5.4;20.2;10.2;Almuerzo
+923;Pollo broaster con ensalada rusa y arroz;6.9;19.2;10;Almuerzo
+924;Pollo broaster con ensalada rusa y arroz;7.2;21;6.7;Almuerzo
+925;Pollo broaster con papas fritas y arroz;7.9;18.6;4;Almuerzo
+926;Pollo broaster con papas fritas, ensalada y arroz;5.7;17.6;10.5;Almuerzo
+927;Pollo broaster con papas fritas, ensalada y arroz;6.1;23.6;3.4;Almuerzo
+928;Pollo con arroz;4.4;22.3;5.3;Almuerzo
+929;Pollo con arroz;9.2;19.9;2;Almuerzo
+930;Pollo con maní y arroz;6.6;18.4;3.7;Almuerzo
+931;Pollo con verduras y arroz;7.7;19.3;6.9;Almuerzo
+932;Pollo con verduras y arroz chaufa;4.6;29.4;0.7;Almuerzo
+933;Pollo dorado con papas fritas y arroz;7.9;24.3;5.5;Almuerzo
+934;Pollo enrollado con arroz;6.8;23.9;3.6;Cena
+935;Pollo frito con arroz;6.6;24;2.8;Almuerzo
+936;Pollo frito con arroz;6.2;24.8;5.6;Cena
+937;Pollo frito con ensalada y arroz;6.6;20.1;8.4;Almuerzo
+938;Pollo frito con ensalada rusa y arroz;5.7;27.2;5.5;Almuerzo
+939;Pollo frito con menestra y arroz;4.4;24.4;6.9;Almuerzo
+940;Pollo frito con menestra y arroz;6.5;27.3;2.3;Almuerzo
+941;Pollo frito con papas fritas y arroz;3.1;29.9;6.7;Almuerzo
+942;Pollo frito con puré y arroz;7.8;22.2;5.4;Almuerzo
+943;Pollo frito con papas fritas, ensalada y arroz;5.5;20.7;6.6;Almuerzo
+944;Pollo saltado con arroz;5.5;18.4;9.6;Almuerzo
+945;Puré con asado y arroz;5.9;22.3;2.8;Almuerzo
+946;Puré con bisteck y arroz;4.8;21.4;2.3;Almuerzo
+947;Puré con churrasco y arroz;5.7;20.4;6.9;Almuerzo
+948;Pure con pavita y arroz;4.8;19.9;3.7;Almuerzo
+949;Puré con pollo al sillao y arroz;5.4;28.4;1.9;Almuerzo
+950;Puré con pollo y arroz;6.1;23.3;7.8;Almuerzo
+951;Puré con pollo y arroz;5.9;23.8;3.3;Almuerzo
+952;Puré con pollo y arroz;7.9;19.2;3.3;Almuerzo
+953;Puré con asado y arroz integral;4.9;26.7;3.3;Almuerzo
+954;Puré con pollo, ensalada y arroz;8.1;19;2.6;Almuerzo
+955;Quinua guisada con pollo y arroz;7;20.9;2.4;Almuerzo
+956;Ravioles con carne;9.8;16.4;9.4;Almuerzo
+957;Rocoto relleno con arroz;5.2;25.3;2.9;Almuerzo
+958;Saltado de brócoli con arroz;4.1;20.1;6.8;Almuerzo
+959;Saltado de pollo con arroz;5.6;21.4;2.8;Almuerzo
+960;Saltado de pollo con papas fritas y arroz;3.7;26.5;10.3;Almuerzo
+961;Seco a la huachana con menestra y arroz;7.9;26.3;1.6;Almuerzo
+962;Seco a la huachana con menestra y arroz;6.5;27.5;1.9;Almuerzo
+963;Seco a la norteña con arroz;5.3;24.2;1.1;Almuerzo
+964;Seco a la norteña con menestra y arroz;8.5;22.7;0.9;Almuerzo
+965;Seco a la norteña con menestra y arroz;6.4;18.6;1.1;Almuerzo
+966;Seco a la norteña con menestra y arroz;6;22.8;1.2;Almuerzo
+967;Seco a la norteña con menestra y arroz;5.5;22.9;1.8;Almuerzo
+968;Seco a la norteña con menestra, sarsa criolla y arroz;5.9;21.8;1.3;Almuerzo
+969;Seco a la norteña con menestra, sarsa criolla y arroz;5.4;27.2;1.9;Almuerzo
+970;Seco a la norteña con sarsa criolla y arroz;4.5;20.9;1.5;Almuerzo
+971;Seco a la norteña con sarsa criolla y arroz;4.4;22.7;1.9;Almuerzo
+972;Seco a la norteña de pollo con menestra y arroz;8.8;16.6;2.5;Almuerzo
+973;Seco a la norteña de res con menestra y arroz;5.9;22.2;1.4;Almuerzo
+974;Seco a la norteña de res con menestra y arroz;8.8;24.8;1.3;Almuerzo
+975;Seco a la norteña de res con menestra y arroz;6;19.7;1.5;Almuerzo
+976;Seco a la norteña de res con menestra, sarsa criolla y arroz;3.8;22;0.8;Almuerzo
+977;Seco a la norteña de res con menestra, sarsa criolla y arroz;4.7;16.1;1.1;Almuerzo
+978;Seco a la norteña de res con menestra, sarsa criolla y arroz;9.6;26;3.9;Almuerzo
+979;Seco a la norteña con menestra, ensalada y arroz;4.3;19.5;1.1;Almuerzo
+980;Seco con menestra y arroz;6.2;25.2;0.7;Almuerzo
+981;Seco de cabrito a la norteña con menestra y arroz;8.7;24.4;1.8;Almuerzo
+982;Seco de cabrito con arroz;6.4;20.4;1.7;Almuerzo
+983;Seco de cabrito con menestra y arroz;8.1;16;1.3;Almuerzo
+984;Seco de cabrito con menestra y arroz;6.4;17.8;1.6;Almuerzo
+985;Seco de cabrito con menestra y arroz;8;27.2;2.6;Almuerzo
+986;Seco de cabrito con menestra, sarsa criolla y arroz;7.5;24.9;1.7;Almuerzo
+987;Seco de cabrito con menestra, sarsa criolla y arroz;5.3;16.2;1.2;Almuerzo
+988;Seco de costillar con menestra y arroz;7.5;20.6;1.4;Almuerzo
+989;Seco de cordero con arroz;7.2;23.2;5.4;Almuerzo
+990;Seco de cordero con menestra y arroz;3.9;16.4;1.5;Almuerzo
+991;Seco de cordero con menestra y arroz;7.9;26.2;5.7;Almuerzo
+992;Seco de cordero con menestra y arroz;7.8;23.2;4.1;Almuerzo
+993;Seco de cordero con menestra, sarsa criolla y arroz;6.5;16.6;4.7;Almuerzo
+994;Seco de cordero con menestra, sarsa criolla y arroz;8;34.7;2.1;Almuerzo
+995;Seco de pato con arroz;9;18.5;11.7;Almuerzo
+996;Seco de pollo con menestra y arroz;8.2;20.6;2.1;Almuerzo
+997;Seco de pollo con sarsa criolla y arroz;7.6;22.1;1.6;Almuerzo
+998;Seco de res a la huachana, menestra y arroz;7.3;18.9;2;Almuerzo
+999;Seco de res a la norteña, menestra y arroz;7.7;25.4;1.1;Almuerzo
+1000;Seco de res con arroz;7.1;17.8;1;Almuerzo
+1001;Seco de res con arroz;6.6;21.9;2.3;Almuerzo
+1002;Seco de res con arroz;7.1;23.7;1.6;Almuerzo
+1003;Seco de res con menestra y arroz;7.5;25.1;2.2;Almuerzo
+1004;Seco de res con menestra, ensalada y arroz;6.4;18.1;1.1;Almuerzo
+1005;Seco de res con menestra, ensalada y arroz;4.8;21.5;4.6;Almuerzo
+1006;Seco de res con menestra, ensalada y arroz;5.7;20.7;2.2;Almuerzo
+1007;Seco de res con menestra, sarsa criolla y arroz;7.3;23.2;0.8;Almuerzo
+1008;Seco de ternera con menestra y arroz;7.7;19.6;1.7;Almuerzo
+1009;Seco huachano con menestra y arroz;5.7;20;1.2;Almuerzo
+1010;Sopa seca con carapulcra y arroz;12.7;17.7;11.1;Almuerzo
+1011;Spaguetti con crema;13.9;21.1;4.3;Almuerzo
+1012;Steak al tequila;5.6;20;0.5;Almuerzo
+1013;Sudado de pescado con arroz;5.2;29;1.3;Almuerzo
+1014;Suprema de pescado con arroz y ensalada;8;28.3;1.7;Almuerzo
+1015;Suprema de pollo con arroz;8.1;30.8;2.6;Almuerzo
+1016;Tacacho con cecina;5.4;27.9;10.2;Almuerzo
+1017;Tacu tacu con churrasco;7.1;24.3;3.8;Almuerzo
+1018;Tacu tacu con filete de pollo;5.7;16.8;2.3;Almuerzo
+1019;Tacu tacu con filete de pollo;8.6;24.7;1.5;Almuerzo
+1020;Tacu tacu con lomito;7.7;18.5;2.9;Almuerzo
+1021;Tacu tacu con lomo y arroz;6.1;25.8;2.5;Almuerzo
+1022;Tacu tacu con pescado;10.1;20.3;4.5;Almuerzo
+1023;Tacu tacu con pescado;8.9;20.5;4.1;Almuerzo
+1024;Tallarines al pesto con bisteck;6.1;18.9;4.8;Almuerzo
+1025;Tallarines al pesto con res;16.3;21.8;8.3;Almuerzo
+1026;Tallarines chifa;7.5;40.2;1;Almuerzo
+1027;Tallarines con pollo;10.5;26.2;1.9;Almuerzo
+1028;Tallarines con pollo y crema a la huancaína;10.8;20.9;3.2;Almuerzo
+1029;Tallarines rojos con pollo;10.2;22.7;2.1;Almuerzo
+1030;Tallarines saltado;8.5;37.3;1.6;Almuerzo
+1031;Tallarines saltados con pollo;7.8;28.1;4.9;Almuerzo
+1032;Tallarines verdes con chuleta;8.6;29.2;11.2;Almuerzo
+1033;Tallarines verdes con churrasco;8.9;23.8;8.2;Almuerzo
+1034;Tallarines verdes con churrasco;8.7;36.6;7.3;Almuerzo
+1035;Tallarines verdes con churrasco y crema a la huancaína;7.4;31.2;4;Almuerzo
+1036;Tallarines verdes con hígado;4.2;13.2;2.1;Almuerzo
+1037;Tallarines verdes con milanesa;6.6;12.5;4.2;Almuerzo
+1038;Tallarines verdes con pollo;8.3;13.7;10.8;Almuerzo
+1039;Tallarines verdes con pollo y crema a la huancaína;9;40;1.9;Almuerzo
+1040;Tallarines verdes con pollo y crema a la huancaína;9.3;23.3;2.7;Almuerzo
+1041;Tallarines verdes con res;11.7;34.1;5.2;Almuerzo
+1042;Ternera a la chiclayana con arroz;3.9;18.5;0.7;Almuerzo
+1043;Trigo con adobo de pollo y arroz;5.5;18.5;4.5;Almuerzo
+1044;Trigo con pollo y arroz;8.1;18.3;2.1;Almuerzo
+1045;Trigo guisado con pollo y arroz;7.9;13.5;3.3;Almuerzo
+1046;Trucha con arroz;4.2;28.8;18.8;Almuerzo
+1047;Trucha con menestra y arroz;5.2;20.2;4.7;Almuerzo
+1048;Virado paulista;3.5;11.8;2.6;Almuerzo

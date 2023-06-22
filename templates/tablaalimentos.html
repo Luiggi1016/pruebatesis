@@ -1,0 +1,271 @@
+<head>
+  <link rel="stylesheet" type="text/css"
+    href="{{url_for('static', filename='vendor/fontawesome-free/css/all.min.css')}}" />
+  <link rel="stylesheet" type="text/css"
+    href="{{url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css')}}" />
+  <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/style.min.css')}}" />
+  <link rel="stylesheet" type="text/css"
+    href="{{url_for('static', filename='vendor/datatables/dataTables.bootstrap4.min.css')}}" />
+</head>
+
+{% extends 'base/base.html'%}
+
+{% block contenido %}
+<!-- Container Fluid-->
+<div class="container-fluid" id="container-wrapper">
+  <div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="inicio">Inicio</a></li>
+      <li class="breadcrumb-item">Tablas</li>
+      <li class="breadcrumb-item active" aria-current="page">Tabla de Pacientes</li>
+    </ol>
+  </div>
+
+  <!-- Row -->
+  <!-- Row -->
+  <div class="row">
+    <!-- Datatables -->
+    <div class="col-lg-12">
+      <div class="card mb-4">
+        <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+          <h6 class="m-0 font-weight-bold text-primary">Tabla de Alimentos</h6>
+          <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#registrarModal">
+            Agregar Alimentos
+          </button>
+        </div>
+        <div class="table-responsive p-3">
+          <table class="table align-items-center table-flush" id="dataTable">
+            <thead class="thead-light">
+              <tr>
+                <th>ID</th>
+                <th>Alimentos</th>
+                <th>Proteínas</th>
+                <th>Carbohidratos</th>
+                <th>Lípidos</th>
+                <th class="invisible-column">Etiqueta</th>
+                <th>Acciones</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for alimento in alimentos %}
+              <tr>
+                <td>{{ alimento[0] }}</td>
+                <td>{{ alimento[1] }}</td>
+                <td>{{ alimento[2] }}</td>
+                <td>{{ alimento[3] }}</td>
+                <td>{{ alimento[4] }}</td>
+                <td class="invisible-column">{{ alimento[5] }}</td>
+                <td>
+                  <div class="button-container">
+                    <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#agregarModal"
+                      data-alimento-id="{{ alimento[0] }}">Editar</button>
+                    <form id="deleteForm" action="/borraralimento" method="post">
+                      <input type="hidden" name="idalimento" value="{{ alimento[0] }}">
+                      <button type="button" class="btn btn-danger btn-sm" data-toggle="modal"
+                        data-target="#confirmDeleteModal">Eliminar</button>
+                    </form>
+                  </div>
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--Row-->
+  <!-- Modal Agregar/Editar Alimento -->
+  <div class="modal fade" id="agregarModal" tabindex="-1" role="dialog" aria-labelledby="agregarModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="agregarModalLabel">Agregar Alimento</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form id="editarForm" action="/editaralimento" method="post">
+            <div class="form-group">
+              <label for="nombre">ID de Alimento</label>
+              <input type="text" class="form-control" id="idalimento" name="idalimento" readonly>
+            </div>
+            <div class="form-group">
+              <label for="nombre">Nombre de Alimento</label>
+              <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Ingrese el nombre del alimento">
+            </div>
+            <div class="form-group">
+              <label for="carbohidratos">Carbohidratos</label>
+              <input type="number" class="form-control" id="carbohidratos" name="carbohidratos"
+                placeholder="Ingrese la cantidad de carbohidratos" min="0">
+            </div>
+            <div class="form-group">
+              <label for="proteinas">Proteínas</label>
+              <input type="number" class="form-control" id="proteinas" name="proteinas" placeholder="Ingrese la cantidad de proteínas"
+                min="0">
+            </div>
+            <div class="form-group">
+              <label for="lipidos">Lípidos</label>
+              <input type="number" class="form-control" id="lipidos" name="lipidos" placeholder="Ingrese la cantidad de lípidos"
+                min="0">
+            </div>
+            <div class="form-group">
+              <label for="etiqueta">Etiqueta</label>
+              <select class="form-control" id="etiqueta" name="etiqueta">
+                <option value="Desayuno">Desayuno</option>
+                <option value="Almuerzo">Almuerzo</option>
+                <option value="Cena">Cena</option>
+              </select>
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" onclick="editarAlimento()">Editar Alimento</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal Agregar/Editar Alimento -->
+  <div class="modal fade" id="registrarModal" tabindex="-1" role="dialog" aria-labelledby="agregarModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="agregarModalLabel">Agregar Alimento</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form id="agregarForm" action="/agregaralimento" method="post">
+            <div class="form-group">
+              <label for="nombre">Nombre de Alimento</label>
+              <input type="text" class="form-control" id="nombre" name="nombre"
+                placeholder="Ingrese el nombre del alimento">
+            </div>
+            <div class="form-group">
+              <label for="carbohidratos">Carbohidratos</label>
+              <input type="number" class="form-control" id="carbohidratos" name="carbohidratos"
+                placeholder="Ingrese la cantidad de carbohidratos" min="0">
+            </div>
+            <div class="form-group">
+              <label for="proteinas">Proteínas</label>
+              <input type="number" class="form-control" id="proteinas" name="proteinas"
+                placeholder="Ingrese la cantidad de proteínas" min="0">
+            </div>
+            <div class="form-group">
+              <label for="lipidos">Lípidos</label>
+              <input type="number" class="form-control" id="lipidos" name="lipidos"
+                placeholder="Ingrese la cantidad de lípidos" min="0">
+            </div>
+            <div class="form-group">
+              <label for="etiqueta">Etiqueta</label>
+              <select class="form-control" id="etiqueta" name="etiqueta">
+                <option value="Desayuno">Desayuno</option>
+                <option value="Almuerzo">Almuerzo</option>
+                <option value="Cena">Cena</option>
+              </select>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-primary" onclick="agregarAlimento()">Registrar Alimento</button>
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal de confirmación de eliminación -->
+  <div class="modal fade" id="confirmDeleteModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Advertencia</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>¿Estás seguro de que deseas eliminar los datos?. Los datos borrados no se podrán recuperar.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Cancelar</button>
+          <button type="button" class="btn btn-danger" onclick="deleteFormSubmit()">Eliminar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      // Capturar el evento de clic en el botón de editar
+      $('.btn-primary').click(function () {
+        // Obtener los datos de la fila correspondiente
+        var id = $(this).data('alimento-id');
+        var nombre = $(this).closest('tr').find('td:nth-child(2)').text();
+        var proteinas = $(this).closest('tr').find('td:nth-child(3)').text();
+        var carbohidratos = $(this).closest('tr').find('td:nth-child(4)').text();
+        var lipidos = $(this).closest('tr').find('td:nth-child(5)').text();
+        var etiqueta = $(this).closest('tr').find('td:nth-child(6)').text().trim(); // Trim para eliminar espacios en blanco
+
+        // Establecer los valores en el modal
+        $('#agregarModalLabel').text('Editar Alimento');
+        $('#idalimento').val(id)
+        $('#nombre').val(nombre);
+        $('#proteinas').val(proteinas);
+        $('#carbohidratos').val(carbohidratos);
+        $('#lipidos').val(lipidos);
+        $('#etiqueta').val(etiqueta).change();
+        $('#registrar-alimento-btn').text('Actualizar datos')
+
+
+        // Actualizar el atributo data-alimento-id del botón de registrar
+        $('#registrar-alimento-btn').data('alimento-id', id);
+      });
+
+    });
+    function deleteFormSubmit() {
+      document.getElementById("deleteForm").submit();
+    }
+    function agregarAlimento() {
+      document.getElementById("agregarForm").submit();
+    }
+    function editarAlimento() {
+      document.getElementById("editarForm").submit();
+    }
+  </script>
+
+
+
+  <!-- Scroll to top -->
+  <a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+  </a>
+
+  <script src="{{url_for('static', filename='vendor/jquery/jquery.min.js')}}"></script>
+  <script src="{{url_for('static', filename='vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+  <script src="{{url_for('static', filename='vendor/jquery-easing/jquery.easing.min.js')}}"></script>
+  <script src="{{url_for('static', filename='js/script.min.js')}}"></script>
+  <script src="{{url_for('static', filename='vendor/datatables/jquery.dataTables.min.js')}}"></script>
+  <script src="{{url_for('static', filename='vendor/datatables/dataTables.bootstrap4.min.js')}}"></script>
+
+
+
+
+  <!-- Page level custom scripts -->
+  <script>
+    $(document).ready(function () {
+      $('#dataTable').DataTable(); // ID From dataTable 
+      $('#dataTableHover').DataTable(); // ID From dataTable with Hover
+    });
+  </script>
+  {% endblock %}
